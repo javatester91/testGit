@@ -2,14 +2,10 @@
 {
     public static void Main()
     {
-        System.Console.WriteLine("Tets"); 
+        System.Console.WriteLine("Test");
+        System.Console.WriteLine("Test test");
 
     }
 
 
-
-    public  int calc (int x, int y)
-        {
-            return x + y;
-        }
 }
